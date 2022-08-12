@@ -1,0 +1,17 @@
+#sign_in_sign_up_modal{
+    .modal-dialog{
+        max-width: 720px;
+        .modal-content{
+            .modal-body{
+                .tab_menu{
+                    display: flex;
+                    gap: 10px;
+                    justify-content: center;
+                    list-style: none;
+                    padding: 0;
+                }
+            }
+        }
+    }
+
+}
